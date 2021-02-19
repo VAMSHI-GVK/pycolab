@@ -1,2 +1,3 @@
 # pycolab
-machine learninjg
+machine learning
+
